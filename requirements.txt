@@ -1,0 +1,8 @@
+pip install fastf1 numpy pandas scikit-learn matplotlib requests
+
+python -m venv venv  
+.\venv\Scripts\activate  
+
+mkdir f1_cache
+
+python baku.py
